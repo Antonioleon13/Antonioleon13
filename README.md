@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Antonio 👋
 
+🤖 I am a Robotics and Digital Systems Engineer.
+
+🔭 I am looking to collaborate in robotics and artificial intelligence research projects.
+
+📫 Reach me out: jantonioleon.irs@gmail.com
 <!--
 **Antonioleon13/Antonioleon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
